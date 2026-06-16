@@ -1,0 +1,17 @@
+{
+  "short_name": "TACSIT",
+  "name": "TACSIT | Military Logistics Simulator",
+  "description": "Command a tactical military logistics network in a glassmorphic strategy simulation game.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/military-logistics-simulator/",
+  "background_color": "#06090e",
+  "theme_color": "#00ff66",
+  "display": "standalone",
+  "orientation": "landscape"
+}
